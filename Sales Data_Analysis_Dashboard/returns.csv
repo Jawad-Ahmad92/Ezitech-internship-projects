@@ -1,0 +1,248 @@
+ReturnID,OrderID,ProductID,ReturnDate,Reason,RefundAmount,Status
+1,7,281,2025-04-17,Damaged,1854.84,Pending
+2,9,119,2025-06-01,Damaged,1149.45,Pending
+3,10,411,2025-08-07,Wrong Item,553.26,Pending
+4,20,437,2025-03-26,Damaged,1830.46,Approved
+5,24,423,2025-11-06,Late Delivery,213.61,Pending
+6,26,367,2025-02-28,Late Delivery,978.14,Pending
+7,27,55,2025-03-26,Wrong Item,144.17,Approved
+8,28,437,2025-04-21,Damaged,1383.35,Pending
+9,39,147,2025-03-16,Late Delivery,305.85,Pending
+10,42,500,2025-10-10,Changed Mind,986.75,Approved
+11,44,350,2025-04-06,Late Delivery,281.44,Pending
+12,50,386,2025-09-29,Wrong Item,1275.01,Approved
+13,56,13,2025-06-19,Damaged,1489.2,Approved
+14,62,469,2025-01-06,Damaged,1274.13,Pending
+15,63,384,2025-04-19,Late Delivery,316.48,Approved
+16,64,93,2025-01-28,Late Delivery,974.17,Approved
+17,70,229,2025-06-06,Late Delivery,548.74,Approved
+18,77,113,2025-04-29,Late Delivery,437.5,Pending
+19,78,470,2025-01-24,Late Delivery,1718.45,Pending
+20,82,226,2025-04-28,Late Delivery,319.4,Approved
+21,89,303,2025-04-28,Changed Mind,19.99,Approved
+22,94,120,2025-05-26,Damaged,382.64,Approved
+23,102,412,2025-03-16,Late Delivery,175.06,Approved
+24,108,146,2025-10-26,Changed Mind,2233.22,Pending
+25,116,294,2025-04-04,Late Delivery,623.02,Approved
+26,117,104,2025-11-13,Changed Mind,281.49,Approved
+27,122,358,2025-08-24,Damaged,931.67,Pending
+28,129,291,2025-07-23,Changed Mind,134.68,Approved
+29,137,186,2025-09-24,Wrong Item,1069.14,Pending
+30,138,381,2025-04-18,Changed Mind,566.71,Approved
+31,142,443,2025-08-28,Wrong Item,894.36,Pending
+32,144,46,2025-06-07,Wrong Item,844.82,Pending
+33,145,241,2025-01-05,Late Delivery,1549.16,Approved
+34,150,232,2025-12-25,Damaged,763.61,Approved
+35,160,8,2025-05-22,Changed Mind,388.04,Approved
+36,171,314,2025-06-15,Damaged,641.57,Approved
+37,174,303,2025-01-26,Changed Mind,100.85,Approved
+38,186,293,2025-02-18,Wrong Item,236.74,Approved
+39,201,103,2025-03-21,Wrong Item,1162.26,Pending
+40,204,356,2025-07-12,Late Delivery,185.36,Approved
+41,206,338,2025-02-25,Damaged,897.18,Pending
+42,213,79,2025-06-09,Wrong Item,499.21,Approved
+43,216,499,2025-07-30,Wrong Item,701.95,Approved
+44,218,352,2025-07-03,Changed Mind,392.95,Pending
+45,219,437,2025-09-09,Damaged,1009.52,Pending
+46,220,212,2025-12-10,Changed Mind,439.81,Pending
+47,226,354,2025-03-14,Wrong Item,1803.04,Approved
+48,231,88,2025-10-17,Changed Mind,1268.63,Pending
+49,237,75,2025-12-08,Wrong Item,232.88,Approved
+50,246,212,2025-06-20,Late Delivery,121.62,Pending
+51,254,158,2025-12-30,Late Delivery,652.65,Pending
+52,264,139,2025-12-27,Late Delivery,61.37,Pending
+53,265,67,2025-08-30,Wrong Item,298.13,Pending
+54,266,183,2025-06-20,Changed Mind,1069.45,Approved
+55,268,115,2025-11-12,Late Delivery,1216.7,Pending
+56,276,417,2025-07-14,Damaged,1139.28,Approved
+57,277,77,2025-09-30,Late Delivery,1718.85,Pending
+58,280,361,2025-07-03,Changed Mind,2191.19,Pending
+59,282,72,2025-10-12,Wrong Item,1068.34,Approved
+60,285,261,2025-10-10,Damaged,1215.47,Pending
+61,291,294,2025-08-04,Late Delivery,850.24,Pending
+62,293,415,2025-01-14,Late Delivery,1672.64,Pending
+63,306,229,2025-04-23,Damaged,583.83,Approved
+64,312,476,2025-11-09,Changed Mind,292.72,Approved
+65,313,330,2025-08-15,Late Delivery,181.49,Pending
+66,326,335,2025-08-30,Late Delivery,352.65,Approved
+67,329,348,2025-06-16,Wrong Item,1652.78,Approved
+68,336,256,2025-02-15,Damaged,1282.44,Approved
+69,338,58,2025-12-17,Damaged,739.75,Pending
+70,339,108,2025-05-09,Wrong Item,1018.14,Approved
+71,341,297,2025-08-03,Wrong Item,714.87,Approved
+72,343,28,2025-03-16,Changed Mind,454.9,Approved
+73,345,144,2025-02-26,Late Delivery,693.08,Approved
+74,347,442,2025-10-30,Wrong Item,215.72,Approved
+75,351,355,2025-04-22,Damaged,1036.86,Pending
+76,358,364,2025-03-12,Wrong Item,334.14,Approved
+77,359,181,2025-09-15,Changed Mind,519.49,Approved
+78,387,140,2025-03-31,Late Delivery,1167.53,Pending
+79,389,14,2025-03-20,Late Delivery,350.55,Pending
+80,399,467,2025-02-22,Damaged,210.35,Pending
+81,401,186,2025-08-15,Wrong Item,798.41,Approved
+82,402,356,2025-12-19,Changed Mind,611.67,Approved
+83,403,10,2025-08-09,Damaged,2005.02,Pending
+84,405,64,2025-04-16,Late Delivery,1240.07,Pending
+85,406,83,2025-11-10,Damaged,1896.13,Approved
+86,408,259,2025-07-07,Changed Mind,607.5,Pending
+87,410,70,2025-07-04,Changed Mind,153.25,Pending
+88,412,220,2025-02-05,Changed Mind,944.4,Approved
+89,417,309,2025-09-06,Changed Mind,1383.26,Approved
+90,419,348,2025-04-02,Damaged,364.94,Approved
+91,421,259,2025-10-05,Changed Mind,562.0,Approved
+92,422,231,2025-07-12,Late Delivery,998.21,Approved
+93,426,393,2025-06-14,Damaged,1055.55,Pending
+94,427,50,2025-06-26,Wrong Item,602.83,Pending
+95,428,44,2025-06-06,Changed Mind,297.95,Pending
+96,431,354,2025-06-22,Changed Mind,624.55,Approved
+97,432,326,2025-10-02,Changed Mind,293.94,Approved
+98,436,206,2025-11-16,Wrong Item,764.56,Pending
+99,440,83,2025-12-18,Wrong Item,906.99,Pending
+100,441,249,2025-08-12,Damaged,698.72,Pending
+101,444,490,2025-07-06,Damaged,1065.59,Pending
+102,446,200,2025-08-05,Changed Mind,344.74,Pending
+103,457,329,2025-11-19,Late Delivery,267.86,Pending
+104,463,26,2025-11-13,Wrong Item,1420.36,Approved
+105,464,368,2025-08-11,Wrong Item,1445.82,Pending
+106,466,145,2025-08-03,Wrong Item,1098.23,Pending
+107,469,306,2025-02-07,Changed Mind,617.84,Pending
+108,471,155,2025-12-10,Wrong Item,212.29,Pending
+109,475,162,2025-03-19,Damaged,784.65,Pending
+110,477,288,2025-08-23,Late Delivery,393.69,Approved
+111,482,169,2025-12-02,Late Delivery,251.55,Pending
+112,488,47,2025-07-08,Changed Mind,448.55,Approved
+113,494,59,2025-04-02,Late Delivery,1544.01,Pending
+114,497,223,2025-01-10,Changed Mind,1203.35,Pending
+115,499,354,2025-06-04,Damaged,1187.52,Approved
+116,501,440,2025-04-08,Damaged,361.34,Approved
+117,503,151,2025-07-20,Changed Mind,2224.78,Pending
+118,507,254,2025-11-27,Wrong Item,1862.95,Pending
+119,513,184,2025-07-02,Changed Mind,807.32,Approved
+120,517,401,2025-10-15,Wrong Item,125.78,Pending
+121,521,137,2025-08-01,Changed Mind,456.88,Approved
+122,537,54,2025-09-22,Changed Mind,568.31,Approved
+123,538,32,2025-03-08,Changed Mind,1317.98,Pending
+124,540,422,2025-03-15,Damaged,639.62,Approved
+125,541,243,2025-03-22,Late Delivery,178.05,Approved
+126,544,94,2025-01-02,Changed Mind,357.28,Pending
+127,546,326,2025-08-19,Changed Mind,1007.36,Pending
+128,551,338,2025-04-03,Changed Mind,1847.18,Approved
+129,554,196,2025-02-16,Late Delivery,955.84,Approved
+130,555,158,2025-12-14,Late Delivery,836.09,Pending
+131,561,156,2025-07-28,Late Delivery,856.04,Approved
+132,574,228,2025-04-24,Late Delivery,351.13,Approved
+133,575,253,2025-01-19,Changed Mind,1484.48,Approved
+134,576,143,2025-09-14,Wrong Item,1030.25,Approved
+135,585,479,2025-05-09,Damaged,536.99,Pending
+136,588,471,2025-01-29,Damaged,540.51,Pending
+137,593,228,2025-05-05,Late Delivery,644.9,Pending
+138,602,186,2025-02-07,Wrong Item,283.93,Pending
+139,603,500,2025-04-12,Wrong Item,211.01,Pending
+140,611,251,2025-02-11,Late Delivery,528.46,Pending
+141,613,243,2025-10-25,Changed Mind,665.1,Approved
+142,619,263,2025-11-26,Damaged,506.35,Approved
+143,620,101,2025-05-09,Wrong Item,205.72,Pending
+144,622,336,2025-08-30,Changed Mind,498.5,Approved
+145,624,220,2025-04-18,Wrong Item,1136.1,Pending
+146,628,486,2025-02-02,Changed Mind,1365.48,Pending
+147,629,88,2025-12-12,Changed Mind,296.15,Pending
+148,631,88,2025-07-30,Damaged,1051.04,Pending
+149,634,235,2025-04-14,Wrong Item,388.29,Pending
+150,640,387,2025-09-16,Damaged,199.01,Pending
+151,644,487,2025-03-13,Damaged,1210.89,Approved
+152,649,396,2025-04-14,Damaged,119.69,Approved
+153,651,341,2025-03-27,Wrong Item,202.99,Approved
+154,652,278,2025-08-08,Damaged,621.98,Pending
+155,653,162,2025-07-19,Late Delivery,275.03,Approved
+156,657,353,2025-12-08,Changed Mind,332.71,Pending
+157,659,64,2025-05-02,Late Delivery,892.75,Approved
+158,662,385,2025-04-28,Wrong Item,84.12,Approved
+159,665,47,2025-10-31,Late Delivery,269.1,Approved
+160,668,242,2025-08-05,Damaged,632.69,Pending
+161,670,146,2025-10-15,Wrong Item,1407.55,Approved
+162,683,221,2025-04-01,Damaged,433.79,Pending
+163,685,133,2025-08-14,Damaged,1201.88,Pending
+164,687,5,2025-05-17,Damaged,240.45,Pending
+165,696,311,2025-12-31,Damaged,262.89,Pending
+166,698,124,2025-04-19,Damaged,762.46,Approved
+167,700,460,2025-12-07,Wrong Item,175.1,Approved
+168,705,408,2025-09-24,Late Delivery,474.2,Approved
+169,706,483,2025-04-23,Damaged,654.92,Pending
+170,716,348,2025-01-29,Late Delivery,499.92,Pending
+171,719,419,2025-05-21,Changed Mind,506.02,Approved
+172,721,197,2025-11-27,Wrong Item,351.59,Pending
+173,723,366,2025-04-17,Late Delivery,70.19,Approved
+174,725,18,2025-03-05,Damaged,553.14,Approved
+175,734,223,2025-01-14,Changed Mind,679.31,Approved
+176,737,474,2025-03-31,Late Delivery,324.14,Pending
+177,753,330,2025-01-19,Changed Mind,522.81,Pending
+178,756,211,2025-09-07,Late Delivery,417.21,Pending
+179,760,170,2025-03-24,Changed Mind,419.43,Approved
+180,764,43,2025-05-07,Damaged,943.17,Pending
+181,766,313,2025-04-07,Wrong Item,404.96,Approved
+182,768,359,2025-04-24,Damaged,412.14,Pending
+183,769,138,2025-05-24,Wrong Item,1657.84,Approved
+184,773,381,2025-09-28,Damaged,2131.44,Approved
+185,774,381,2025-03-03,Damaged,2003.84,Approved
+186,781,288,2025-07-25,Damaged,565.88,Pending
+187,787,321,2025-07-02,Damaged,499.51,Pending
+188,791,97,2025-09-09,Wrong Item,502.38,Pending
+189,792,312,2025-02-05,Changed Mind,355.1,Approved
+190,793,270,2025-01-07,Damaged,504.95,Approved
+191,795,491,2025-10-05,Changed Mind,364.41,Approved
+192,798,454,2025-03-14,Late Delivery,196.72,Pending
+193,800,53,2025-07-02,Damaged,1017.82,Approved
+194,809,43,2025-08-04,Damaged,922.89,Pending
+195,812,216,2025-04-18,Wrong Item,388.33,Pending
+196,814,245,2025-03-22,Damaged,1064.51,Pending
+197,817,31,2025-11-06,Changed Mind,136.9,Pending
+198,819,268,2025-03-06,Damaged,463.3,Pending
+199,821,139,2025-02-23,Damaged,31.67,Approved
+200,823,124,2025-02-13,Late Delivery,754.24,Approved
+201,825,67,2025-06-19,Wrong Item,339.99,Approved
+202,826,408,2025-09-02,Damaged,711.65,Approved
+203,829,39,2025-10-18,Damaged,574.23,Pending
+204,832,132,2025-11-29,Changed Mind,1572.72,Pending
+205,837,239,2025-11-25,Changed Mind,1146.03,Pending
+206,838,206,2025-02-03,Damaged,1379.62,Pending
+207,840,308,2025-02-01,Damaged,1010.51,Pending
+208,842,448,2025-08-03,Changed Mind,301.58,Pending
+209,849,397,2025-11-04,Damaged,472.89,Pending
+210,855,429,2025-02-15,Damaged,369.33,Pending
+211,856,298,2025-12-08,Changed Mind,203.14,Approved
+212,859,338,2025-06-07,Damaged,1175.22,Approved
+213,863,207,2025-09-22,Damaged,582.63,Pending
+214,864,391,2025-10-11,Damaged,247.0,Approved
+215,869,55,2025-05-25,Wrong Item,330.19,Pending
+216,870,252,2025-07-31,Late Delivery,148.38,Pending
+217,871,83,2025-06-02,Late Delivery,717.06,Pending
+218,874,444,2025-02-28,Wrong Item,513.55,Pending
+219,876,382,2025-08-12,Late Delivery,367.78,Pending
+220,881,59,2025-06-15,Late Delivery,526.17,Pending
+221,889,68,2025-01-19,Changed Mind,291.3,Pending
+222,892,317,2025-01-15,Changed Mind,564.17,Approved
+223,895,406,2025-05-19,Wrong Item,1021.16,Pending
+224,903,104,2025-04-07,Damaged,648.21,Approved
+225,904,449,2025-02-26,Changed Mind,112.63,Pending
+226,905,61,2025-02-13,Late Delivery,645.75,Approved
+227,910,116,2025-12-25,Late Delivery,2285.53,Pending
+228,914,73,2025-12-08,Damaged,211.01,Approved
+229,919,7,2025-06-04,Damaged,710.05,Approved
+230,920,439,2025-12-04,Changed Mind,553.02,Pending
+231,931,42,2025-04-23,Changed Mind,325.29,Pending
+232,932,496,2025-05-14,Late Delivery,226.79,Approved
+233,933,394,2025-05-09,Late Delivery,731.45,Pending
+234,943,369,2025-09-06,Damaged,145.94,Approved
+235,953,258,2025-06-28,Late Delivery,422.8,Pending
+236,957,207,2025-01-24,Changed Mind,170.11,Pending
+237,960,227,2025-11-07,Wrong Item,1184.97,Approved
+238,966,35,2025-08-07,Damaged,1077.25,Approved
+239,970,57,2025-08-30,Wrong Item,1627.86,Pending
+240,974,371,2025-02-23,Changed Mind,238.59,Pending
+241,977,65,2025-12-26,Late Delivery,881.43,Pending
+242,986,467,2025-09-24,Wrong Item,230.77,Approved
+243,988,139,2025-10-29,Changed Mind,137.42,Pending
+244,989,442,2025-07-16,Changed Mind,376.65,Approved
+245,994,122,2025-01-08,Late Delivery,100.12,Pending
+246,999,142,2025-10-10,Late Delivery,2701.94,Pending
+247,1000,254,2025-04-27,Wrong Item,1007.65,Pending
